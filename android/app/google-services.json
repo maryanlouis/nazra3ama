@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627444331244",
+    "firebase_url": "https://nathra3ama-default-rtdb.firebaseio.com",
+    "project_id": "nathra3ama",
+    "storage_bucket": "nathra3ama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627444331244:android:01ca21781971e920c62bc9",
+        "android_client_info": {
+          "package_name": "com.biblesocietyegypt.nazra3amma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627444331244-5qq9kochc7beqsrqf01lhaffi1v50fkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.biblesocietyegypt.nazra3amma",
+            "certificate_hash": "6387d00fbb30f815e79c6988afdf624fac9f39ae"
+          }
+        },
+        {
+          "client_id": "627444331244-fjjbkgc4n24622brr84g5m41vo0pd43m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVCCmMp5pHEBSBpU489cAFjSNl0Fy5fPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627444331244-ehp2gse1l6rhao1ckmbkgbm6uinupmgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
