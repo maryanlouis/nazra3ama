@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+  <meta name="google-signin-client_id" content="627444331244-ehp2gse1l6rhao1ckmbkgbm6uinupmgq.apps.googleusercontent.com" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="nathra_ama">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>نظرة عامة على الكتاب المقدس</title>
+  <link rel="manifest" href="manifest.json">
+</head>
+<body>
+
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.2.0/firebase-database.js"></script>
+  <script src="/__/firebase/8.2.9/firebase-app.js"></script>
+  <script src="/__/firebase/8.2.9/firebase-analytics.js"></script>
+  <script src="/__/firebase/init.js"></script>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=2921520566');
+      });
+    }
+  </script>
+  <script>
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    var firebaseConfig = {
+    apiKey: "AIzaSyDWItbD8ioZR32dJT9dHUWnoj1gHZ9Pgl4",
+    authDomain: "nathra3ama.firebaseapp.com",
+    databaseURL: "https://nathra3ama-default-rtdb.firebaseio.com",
+    projectId: "nathra3ama",
+    storageBucket: "nathra3ama.appspot.com",
+    messagingSenderId: "627444331244",
+    appId: "1:627444331244:web:c8e66878306713ccc62bc9",
+    measurementId: "G-HQSYXLCGZ0"
+    };
+
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+
+</script>
+  <script src="main.dart.js" type="application/javascript"></script>
+</body>
+</html>

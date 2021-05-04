@@ -1,0 +1,994 @@
+ {
+   "myVedios":[
+     {
+       "serial": 1,
+       "id": "AlOWMrTcPYg",
+       "title": "أهمية النظرة العامة على الكتاب المقدس",
+       "categoryId": 1,
+       "resourceLink":[
+       ],
+       "description": "حلقات نظرة عامة على الكتاب المقدس هي نظرة تليسكوبية مقابل النظرة الميكروسكوبية وهي نظرة إجمالية مقابل النظرة التفصيلية.هي نظرة على الخطوط العريضة للكتاب المقدس، والتي لا يمكن بدونها فهم القصة الكتابية والقصد الإلهي منها.هي نظرة على أهم الشخصيات، أهم الأحداث، أهم التواريخ، وأهم المواقع الجغرافية. وكيف يمكن أن نراها في مشهد وإطار واحد"
+     },
+     {
+       "serial": 2,
+       "id": "-Cs7X0c0FpI",
+       "title": "لماذا النظرة العامة على الكتاب المقدس؟",
+       "categoryId": 1,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 3,
+       "id": "JoP7moykCjY",
+       "title": "أسفار العهد القديم وكيفية ترتيبها وتقسيمها",
+       "categoryId": 1,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 4,
+       "id": "vi0uYiHvL3Q",
+       "title": "النظرة العامة على العهد القديم: البدايات وعصر الآباء",
+       "categoryId": 1,
+       "resourceLink": [
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link":"https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP04-EP05-EP06-EP07.jpg"
+         }
+       ],
+
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 5,
+       "id": "2TJI8b4QdH0",
+       "title": "النظرة العامة على العهد القديم: عصر القضاة وعصر الملوك (أ)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP04-EP05-EP06-EP07.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP05.jpg"
+         }
+       ],
+
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 6,
+       "id": "rY2NMdGnC9g",
+       "title": "النظرة العامة على العهد القديم: عصر الملوك (ب)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP04-EP05-EP06-EP07.jpg"
+         }
+       ],
+
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 7,
+       "id": "gO4lESeqnnA",
+       "title": "النظرة العامة على العهد القديم: عصر الأنبياء – انقسام المملكة",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP04-EP05-EP06-EP07.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP07-EP08-EP09.jpg"
+         }
+       ],
+
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 8,
+       "id": "x9px1pcBSkw",
+       "title": "النظرة العامة على العهد القديم: عصر الأنبياء – السبي ",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP07-EP08-EP09.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP08-EP10-EP11-EP12.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 9,
+       "id": "LOU880CarlU",
+       "title": "النظرة العامة على العهد القديم: عصر الأنبياء – الرجوع من السبي",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP07-EP08-EP09.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 10,
+       "id": "MAoVWauAw9A",
+       "title": "خريطة فلسطين في زمن العهد القديم (أ)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP08-EP10-EP11-EP12.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 11,
+       "id": "7SlRF3dcTdA",
+       "title": "خريطة فلسطين في زمن العهد القديم (ب)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP08-EP10-EP11-EP12.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 12,
+       "id": "AapGfZHj0SM",
+       "title": "خريطة فلسطين في زمن العهد القديم (ج)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP08-EP10-EP11-EP12.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 13,
+       "id": "W-P9clRS9so",
+       "title": "رحلة الخروج من مصر (من الخروج إلى جبل حوريب)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP13-EP14.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 14,
+       "id": "s-03lZIk24I",
+       "title": "الـ 10 خطوات الأخيرة لرحلة الخروج (من جبل حوريب إلى أرض الموعد)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP13-EP14.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 15,
+       "id": "0sW9XiFCoMc",
+       "title": "النظرة العامة على العهد الجديد - حياة السيد المسيح (أ)",
+       "categoryId": 2,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 16,
+       "id": "HtKKZK0eRl0",
+       "title": "النظرة العامة على العهد الجديد - حياة السيد المسيح (ب)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP16.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 17,
+       "id": "McIFphCWByw",
+       "title": "خريطة من الميلاد إلى بداية الخدمة",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP17.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 18,
+       "id": "Ub_Ae7Tu8CM",
+       "title": "خريطة فلسطين في زمن العهد الجديد",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP18.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 19,
+       "id": "3d8hngfAyZU",
+       "title": "النظرة العامة على العهد الجديد - الكنيسة الأولى",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP19.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 20,
+       "id": "3AjojaYLqT4",
+       "title": "خريطة حوض البحر المتوسط في زمن العهد الجديد (أ)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP20-EP21.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 21,
+       "id": "w_Lb6skNo6g",
+       "title": "خريطة حوض البحر المتوسط في زمن العهد الجديد (ب)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP20-EP21.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 22,
+       "id": "4dM-q-XTGWY",
+       "title": "النظرة العامة على العهد الجديد - حياة الرسول بولس - من السجن إلى موت الرسول يوحنا",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP22A.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP22B.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 23,
+       "id": "toda3sYXKL0",
+       "title": "رحلة الرسول بولس الأولى",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP23.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 24,
+       "id": "V1CSrsFaGxE",
+       "title": "رحلة الرسول بولس إلى رومية (أ)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP24-EP25-EP26.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 25,
+       "id": "2TWwzd74Vik",
+       "title": "رحلة الرسول بولس إلى رومية (ب)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP24-EP25-EP26.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 26,
+       "id": "kSkBTGhuhpw",
+       "title": "رحلة الرسول بولس إلى رومية (ج)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP24-EP25-EP26.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 27,
+       "id": "XzLWPYdN5Bw",
+       "title": "حياة إبراهيم (أ)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP27.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 28,
+       "id": "frfVCJ28i3I",
+       "title": "حياة إبراهيم (ب)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP28.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 29,
+       "id": "EeLSO5AdJ2M",
+       "title": "حياة إسحاق",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP29.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 30,
+       "id": "dQ8l2QMvx6I",
+       "title": "حياة يعقوب",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP30.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 31,
+       "id": "YdJu9G_CnnM",
+       "title": "حياة يوسف",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP31.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 32,
+       "id": "4CBmnR7DDGw",
+       "title": "الأسر الفرعونية",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP32.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 33,
+       "id": "zvu2A02z-CY",
+       "title": "فترة الخروج من أرض مصر – قراءة تاريخية لحياة موسى",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP33-EP34-EP35.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP33.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 34,
+       "id": "nsg4mDhE7Rs",
+       "title": "فترة الخروج من أرض مصر – أهم أحداث فترة الخروج",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP33-EP34-EP35.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP34.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 35,
+       "id": "LlwyJkVO_W8",
+       "title": "فترة الخروج من أرض مصر – تذمرات الشعب ومعجزات الله",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP33-EP34-EP35.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 36,
+       "id": "1ESipWCuFa4",
+       "title": "يشوع",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP36-EP37.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP36.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 37,
+       "id": "lkjB9uAZLps",
+       "title": "عصر القضاة",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP36-EP37.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 38,
+       "id": "_LMST4Ky8Fs",
+       "title": "صموئيل النبي",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP38.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 39,
+       "id": "TiNq_ama9Ik",
+       "title": "شاول الملك",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP39-EP40-EP41-EP42.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 40,
+       "id": "C3A7eJ7AVz4",
+       "title": "داود الملك",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP39-EP40-EP41-EP42.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 41,
+       "id": "v5S-qcVacpo",
+       "title": "سليمان الملك",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP39-EP40-EP41-EP42.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 42,
+       "id": "Lsqt4Cxd6Z4",
+       "title": "المملكة المنقسمة (أ)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP39-EP40-EP41-EP42.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 43,
+       "id": "Qpeg5gDcUv8",
+       "title": "المملكة المنقسمة (ب)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP43.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 44,
+       "id": "tkYPNPQoz-c",
+       "title": "المملكة المنقسمة (ج)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP44-EP45A.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP44-EP45B.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 45,
+       "id": "m24LM4Utu1k",
+       "title": "المملكة المنقسمة (د)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP44-EP45A.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP44-EP45B.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 46,
+       "id": "tsUNYgolloE",
+       "title": "نظرة تاريخية لأسفار الأنبياء",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP46.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 47,
+       "id": "ZdY3ih8QlWQ",
+       "title": "نظرة جغرافية لرسالة الأنبياء",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP47.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 48,
+       "id": "2fVTokTJQAg",
+       "title": "نظرة إجمالية على أسفار الأنبياء - نظرة على رسالة أنبياء القرن الثامن (إشعياء)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP48-EP49-EP51-EP52-EP53.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 49,
+       "id": "E_9fxGm-iD0",
+       "title": "نظرة على رسالة أنبياء القرن الثامن (عاموس، هوشع، ميخا)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP48-EP49-EP51-EP52-EP53.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 50,
+       "id": "8uTDKpk-lWs",
+       "title": "نظرة على رسالة أنبياء القرن السابع (ناحوم، صفنيا، إرميا، حبقوق)",
+       "categoryId": 1,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 51,
+       "id": "j3hOLqEMa9k",
+       "title": "نظرة تاريخية على حياة النبي إرميا - نظرة على رسالة أنبياء القرن السادس (دانيال)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP48-EP49-EP51-EP52-EP53.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 52,
+       "id": "qLA56O4P8y0",
+       "title": "نظرة على أنبياء القرن السادس (حزقيال، حجي، زكريا)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP48-EP49-EP51-EP52-EP53.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 53,
+       "id": "CpZSb7hngP4",
+       "title": "نظرة على رسالة أنبياء القرن الخامس (ملاخي)-نظرة على رسالة باقي الأنبياء (يوئيل، عوبديا، يونان)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP48-EP49-EP51-EP52-EP53.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 54,
+       "id": "fpJ6zHdh6gk",
+       "title": "العودة من السبي (عزرا، نحميا)",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP54.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 55,
+       "id": "depXnAJfb5Y",
+       "title": "ما بين العهدين – أولاً الفرس",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP55.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 56,
+       "id": "qRI_BeJ9DSA",
+       "title": "ما بين العهدين – ثانيًا اليونان",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP56.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 57,
+       "id": "s6KXznYkOMw",
+       "title": "ما بين العهدين – ثالثًا المكابيون",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP57A.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP57B.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 58,
+       "id": "XZTPIQGVaN0",
+       "title": "ما بين العهدين – رابعًا الرومان",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP58.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 59,
+       "id": "zYDnd8wvBKM",
+       "title": "كيف تقرأ حياة السيد المسيح من خلال الأناجيل (أ)",
+       "categoryId": 2,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 60,
+       "id": "8n7anEim2Ak",
+       "title": "كيف تقرأ حياة السيد المسيح من خلال الأناجيل (ب)",
+       "categoryId": 2,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 61,
+       "id": "0Lz5GCd4tFA",
+       "title": "حياة السيد المسيح السنة الأولي",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP61.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 62,
+       "id": "0f_fg16MPjw",
+       "title": "حياة السيد المسيح السنة الثانية",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP62.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 63,
+       "id": "ygHd0_2_r30",
+       "title": "حياة السيد المسيح السنة الثالثة",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP63.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 64,
+       "id": "Qah2Djxaf7w",
+       "title": "الأسبوع الأخير",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP64.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 65,
+       "id": "zZLH5zOkFLo",
+       "title": "اليوم الأخير في حياة السيد المسيح (أ)",
+       "categoryId": 2,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 66,
+       "id": "7oD5_u3Pe-k",
+       "title": "اليوم الأخير في حياة السيد المسيح (ب)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP66A.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP66B.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 67,
+       "id": "HT4JQmsDhbk",
+       "title": "كرازة البشير فيلبس",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP67.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 68,
+       "id": "KsdQBslAko8",
+       "title": "كرازة الرسول بطرس",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP68.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 69,
+       "id": "rLu317Ea8tc",
+       "title": "رحلة الرسول بولس الثانية",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP69.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 70,
+       "id": "HlUBweNndIg",
+       "title": "رحلة الرسول بولس الثالثة",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP70-EP72-EP73.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 71,
+       "id": "ydXKqiuO-hU",
+       "title": "إستراتيجية الرسول بولس للكرازة (أ)",
+       "categoryId": 2,
+       "resourceLink":[
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 72,
+       "id": "7qpXmJzZ2WQ",
+       "title": "إستراتيجية الرسول بولس للكرازة (ب)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP70-EP72-EP73.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 73,
+       "id": "BTqWA6-yg8E",
+       "title": "إستراتيجية الرسول بولس للكرازة (ج)",
+       "categoryId": 2,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP70-EP72-EP73.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     },
+     {
+       "serial": 74,
+       "id": "fHcgJ8Ghtjo",
+       "title": "الإصحاحات المفتاحية",
+       "categoryId": 1,
+       "resourceLink":[
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP74A.jpg"
+         },
+         {
+           "resourceTitle": "شاهد الرسومات التوضيحية",
+           "link": "https://bsoe.s3.eu-central-1.amazonaws.com/photos/n3/Nazra3amma_EP74B.jpg"
+         }
+       ],
+       "description": "https://Nazra3amma.AlketabAlmokadas.net/"
+     }
+   ],
+   "myCategories": [
+     {
+       "categoryId": 1,
+       "categoryTitle": "العهد القديم"
+     },
+     {
+       "categoryId": 2,
+       "categoryTitle": "العهد الجديد"
+     }
+
+   ]
+
+ }
